@@ -907,8 +907,6 @@ http://192.168.5.1:4022/rtp/239.45.0.8:5140
 http://192.168.5.1:4022/rtp/239.45.3.12:5140
 #EXTINF:-1 tvg-name="茶频道HD" tvg-logo="" group-title="本地综合",茶频道HD
 http://192.168.5.1:4022/rtp/239.45.3.18:5140
-#EXTINF:-1 tvg-name="FTV足球频道HD" tvg-logo="" group-title="本地综合",FTV足球频道HD
-http://192.168.5.1:4022/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-name="陶瓷HD" tvg-logo="" group-title="本地综合",陶瓷HD
 http://192.168.5.1:4022/rtp/239.45.3.50:5140
 #EXTINF:-1 tvg-name="游戏风云HD" tvg-logo="" group-title="本地综合",游戏风云HD
