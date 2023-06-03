@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://github.com/Kk2035/Iptv/blob/0c5582e35b87a683c03d1c69c0192b7c4b5ba321/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%E5%8F%B0.png" group-title="港澳台",纬来日本台
-https://pull-l3-cny.douyincdn.com/live/b6ea3f52baf2b0bc1ed8c70c760debca.m3u8
-
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://152.136.244.145/ws/hunan.png" group-title="卫视",湖南卫视
 http://192.168.5.1:4022/rtp/239.45.3.228:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://152.136.244.145/ws/zhejiang.png" group-title="卫视",浙江卫视
