@@ -911,7 +911,5 @@ http://192.168.5.1:4022/rtp/239.45.3.50:5140
 http://192.168.5.1:4022/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="动漫秀场HD" tvg-logo="" group-title="本地综合",动漫秀场HD
 http://192.168.5.1:4022/rtp/239.45.3.134:5140
-#EXTINF:-1 tvg-name="百事通Live" tvg-logo="" group-title="本地综合",百事通Live
-http://192.168.5.1:4022/rtp/239.45.3.216:5140
 #EXTINF:-1 tvg-name="冬奥纪实HD" tvg-logo="" group-title="本地综合",冬奥纪实HD
 http://192.168.5.1:4022/rtp/239.45.1.14:5140
