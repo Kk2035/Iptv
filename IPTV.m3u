@@ -95,26 +95,14 @@ http://192.168.5.1:4022/rtp/239.45.3.212:5140
 http://192.168.5.1:4022/rtp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="金鹰纪实HD" tvg-logo="" group-title="综合",金鹰纪实HD
 http://192.168.5.1:4022/rtp/239.45.1.45:5140
-#EXTINF:-1 tvg-name="中国教育" tvg-logo="" group-title="综合",金鹰纪实HD
-http://192.168.5.1:4022/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="" group-title="综合",百事通4K电影
 http://192.168.5.1:4022/rtp/239.45.3.107:5140
-#EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="" group-title="综合",百事通4K电影
-http://192.168.5.1:4022/rtp/239.45.1.9:5140
-#EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="" group-title="综合",百事通4K电影
-http://192.168.5.1:4022/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="" group-title="综合",百事通4K纪实
 http://192.168.5.1:4022/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="" group-title="综合",百事通4K儿童
 http://192.168.5.1:4022/rtp/239.45.1.11:5140
-#EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="" group-title="综合",百事通4K儿童
-http://192.168.5.1:4022/rtp/239.45.1.1:5140
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="" group-title="综合",欢笑剧场4K
 http://192.168.5.1:4022/rtp/239.45.3.196:5140
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="" group-title="综合",欢笑剧场4K
-http://192.168.5.1:4022/rtp/239.45.1.23:5140
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="" group-title="综合",欢笑剧场4K
-http://192.168.5.1:4022/rtp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="CMTV-HD" tvg-logo="" group-title="综合",CMTV-HD
 http://192.168.5.1:4022/rtp/239.45.1.54:5140
 #EXTINF:-1 tvg-name="卡酷动画HD" tvg-logo="" group-title="综合",卡酷动画HD
@@ -123,12 +111,6 @@ http://192.168.5.1:4022/rtp/239.45.0.8:5140
 http://192.168.5.1:4022/rtp/239.45.3.12:5140
 #EXTINF:-1 tvg-name="茶频道HD" tvg-logo="" group-title="综合",茶频道HD
 http://192.168.5.1:4022/rtp/239.45.3.18:5140
-#EXTINF:-1 tvg-name="FTV足球频道HD" tvg-logo="" group-title="综合",FTV足球频道HD
-http://192.168.5.1:4022/rtp/239.45.3.22:5140
-#EXTINF:-1 tvg-name="MAX极速汽车HD" tvg-logo="" group-title="综合",MAX极速汽车HD
-http://192.168.5.1:4022/rtp/239.45.3.49:5140
-#EXTINF:-1 tvg-name="陶瓷HD" tvg-logo="" group-title="综合",陶瓷HD
-http://192.168.5.1:4022/rtp/239.45.3.50:5140
 #EXTINF:-1 tvg-name="游戏风云HD" tvg-logo="" group-title="综合",游戏风云HD
 http://192.168.5.1:4022/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="动漫秀场HD" tvg-logo="" group-title="综合",动漫秀场HD
@@ -137,5 +119,4 @@ http://192.168.5.1:4022/rtp/239.45.3.134:5140
 http://192.168.5.1:4022/rtp/239.45.3.216:5140
 #EXTINF:-1 tvg-name="冬奥纪实HD" tvg-logo="" group-title="综合",冬奥纪实HD
 http://192.168.5.1:4022/rtp/239.45.1.14:5140
-#EXTINF:-1 tvg-name="天翼高清" tvg-logo="" group-title="综合",天翼高清
-http://192.168.5.1:4022/rtp/239.45.1.211:5140
+
