@@ -183,15 +183,35 @@ http://192.168.5.1:4022/rtp/239.45.1.48:5140
 http://192.168.5.1:4022/rtp/239.45.0.38:5140
 
 
-#EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="" group-title="本地",百事通4K电影
+#EXTINF:-1 tvg-name="BesTV电影" tvg-logo="" group-title="本地",BesTV电影
 http://192.168.5.1:4022/rtp/239.45.3.107:5140
-#EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="" group-title="本地",百事通4K纪实
+#EXTINF:-1 tvg-name="BesTV纪实" tvg-logo="" group-title="本地",BesTV纪实
 http://192.168.5.1:4022/rtp/239.45.1.10:5140
-#EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="" group-title="本地",百事通4K儿童
+#EXTINF:-1 tvg-name="BesTV儿童" tvg-logo="" group-title="本地",BesTV儿童
 http://192.168.5.1:4022/rtp/239.45.1.11:5140
+#EXTINF:-1 tvg-name="BesTVLive" tvg-logo="" group-title="本地",BesTVLive
+http://192.168.5.1:4022/rtp/239.45.3.216:5140
+
 #EXTINF:-1 tvg-name="CMTV-HD" tvg-logo="" group-title="本地",CMTV-HD
 http://192.168.5.1:4022/rtp/239.45.1.54:5140
-#EXTINF:-1 tvg-name="百事通Live" tvg-logo="" group-title="本地",百事通Live
-http://192.168.5.1:4022/rtp/239.45.3.216:5140
 #EXTINF:-1 tvg-name="冬奥纪实HD" tvg-logo="" group-title="本地",冬奥纪实HD
 http://192.168.5.1:4022/rtp/239.45.1.14:5140
+
+
+#EXTINF:-1 tvg-name="besTV测试" tvg-logo="" group-title="本地",besTV测试
+http://192.168.5.1:4022/rtp/239.45.1.106:5140
+#EXTINF:-1 tvg-name="BesTV影院" tvg-logo="" group-title="本地",BesTV影院
+http://192.168.5.1:4022/rtp/239.45.1.9:5140
+#EXTINF:-1 tvg-name="BesTV动漫" tvg-logo="" group-title="本地",BesTV动漫
+http://192.168.5.1:4022/rtp/239.45.1.1:5140
+#EXTINF:-1 tvg-name="BesTV纪实" tvg-logo="" group-title="本地",BesTV纪实
+http://192.168.5.1:4022/rtp/239.45.1.103:5140
+#EXTINF:-1 tvg-name="BesTV卡通" tvg-logo="" group-title="本地",BesTV卡通
+http://192.168.5.1:4022/rtp/239.45.3.156:5140
+
+#EXTINF:-1 tvg-name="浦东" tvg-logo="" group-title="本地",浦东
+http://192.168.5.1:4022/rtp/239.45.3.248:5140
+#EXTINF:-1 tvg-name="崇明" tvg-logo="" group-title="本地",崇明
+http://192.168.5.1:4022/rtp/239.45.1.54:5140
+#EXTINF:-1 tvg-name="嘉定" tvg-logo="" group-title="本地",嘉定
+http://192.168.5.1:4022/rtp/239.45.3.185:5140
