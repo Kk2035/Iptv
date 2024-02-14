@@ -123,7 +123,7 @@ http://192.168.5.1:4022/rtp/239.45.3.18:5140
 http://192.168.5.1:4022/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="地方",生活时尚
 http://192.168.5.1:4022/rtp/239.45.3.132:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="地方",乐游
+#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="https://epg.deny.vip/df/乐游.png" group-title="地方",乐游
 http://192.168.5.1:4022/rtp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.deny.vip/df/都市剧场.png" group-title="地方",都市剧场
 http://192.168.5.1:4022/rtp/239.45.3.136:5140
