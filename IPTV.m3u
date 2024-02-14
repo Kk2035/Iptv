@@ -159,25 +159,25 @@ http://192.168.5.1:4022/rtp/239.45.0.14:5140
 http://192.168.5.1:4022/rtp/239.45.1.45:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场
 http://192.168.5.1:4022/rtp/239.45.1.4:5140
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="卡通",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="地方",卡酷少儿
 http://192.168.5.1:4022/rtp/239.45.0.8:5140
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="卡通",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="地方",嘉佳卡通
 http://192.168.5.1:4022/rtp/239.45.1.48:5140
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="卡通",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="地方",金鹰卡通
 http://192.168.5.1:4022/rtp/239.45.0.38:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="卡通",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="地方",动漫秀场
 http://192.168.5.1:4022/rtp/239.45.3.134:5140
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="卡通",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="地方",哈哈炫动
 http://192.168.5.1:4022/rtp/239.45.1.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",BesTV电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV电影
 http://192.168.5.1:4022/rtp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",BesTV纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV纪实
 http://192.168.5.1:4022/rtp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",BesTV儿童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BesTV儿童
 http://192.168.5.1:4022/rtp/239.45.1.11:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",纪实科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",纪实科教
 http://192.168.5.1:4022/rtp/239.45.1.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",浦东
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",浦东
 http://192.168.5.1:4022/rtp/239.45.3.248:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",崇明
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",崇明
 http://192.168.5.1:4022/rtp/239.45.1.54:5140
