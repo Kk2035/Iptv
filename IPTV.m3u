@@ -113,7 +113,7 @@ http://192.168.5.1:4022/rtp/239.45.1.116:5140
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.5.1:4022/rtp/239.45.1.117:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://epg.deny.vip/ws/sansha.png" group-title="卫视",三沙卫视
-http://192.168.5.1:4022/rtp/239.45.1.82:5140
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
 http://192.168.5.1:4022/rtp/239.45.0.39:5140
 
